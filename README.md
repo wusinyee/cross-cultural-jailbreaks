@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live-ff4b4b.svg)](https://share.streamlit.io/)
 
-Advanced AI safety tool for detecting culture-specific jailbreak patterns across English and Chinese with 92% accuracy.
+Advanced AI safety tool for detecting culture-specific jailbreak patterns across English and Chinese with accuracy.
 
 ![Demo](https://github.com/wusinyee/cross-cultural-jailbreaks/assets/demo.gif)
 
