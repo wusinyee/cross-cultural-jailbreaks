@@ -1,0 +1,30 @@
+# Add common Python and development files to .gitignore
+echo "# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+*.cover
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+results/
+*.log" > .gitignore
