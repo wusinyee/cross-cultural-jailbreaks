@@ -45,8 +45,7 @@ if 'analyzer' not in st.session_state:
 # Header
 st.title("🛡️ Cross-Cultural Jailbreak Pattern Analyzer")
 st.markdown("""
-**Advanced AI Safety Tool** | Detecting culture-specific attack vectors across English and Chinese  
-*Based on 1000+ hours of RLHF experience at Volga Partners*
+**Bilingual AI Safety Tool** | Detecting culture-specific attack vectors across English and Chinese  
 """)
 
 # Sidebar
