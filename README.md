@@ -2,11 +2,12 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-ff4b4b.svg)](https://share.streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wusinyee-cross-cultural-jailbreaks-app-mprwlc.streamlit.app/)
 
-Advanced AI safety tool for detecting culture-specific jailbreak patterns across English and Chinese with accuracy.
+Bilingual AI safety tool for detecting jailbreak patterns across English and Chinese with accuracy.
 
-![Demo](https://github.com/wusinyee/cross-cultural-jailbreaks/assets/demo.gif)
+## 🌐 Live Demo
+Try it now: [https://jailbreak-analyzer.streamlit.app](https://wusinyee-cross-cultural-jailbreaks-app-mprwlc.streamlit.app/)
 
 ## Features
 
