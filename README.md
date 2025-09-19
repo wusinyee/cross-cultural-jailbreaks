@@ -13,7 +13,6 @@ Advanced AI safety tool for detecting culture-specific jailbreak patterns across
 - **Multilingual Detection** - Specialized patterns for English and Chinese attack vectors
 - **Real-time Analysis** - Interactive dashboard with instant threat detection
 - **9 Attack Categories** - Comprehensive coverage of known jailbreak techniques
-- **Dark Theme UI** - X-inspired professional interface
 - **Batch Processing** - Analyze multiple prompts simultaneously
 
 ## Quick Start
